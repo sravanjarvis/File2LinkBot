@@ -13,8 +13,6 @@ should include the protocol, e.g. `https://example.com`.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CyberBoyAyush/File2LinkBot)
 
-Watch our YouTube video for more details - [How To Create Your Own Telegram File To Link Generation Bot](http://www.youtube.com/watch?v=H-bEuLjwdfY)
-
 ### Environment variables
 * `TG_API_ID` (required) - Your Telegram API ID.
 * `TG_API_HASH` (required) - Your Telegram API hash.
